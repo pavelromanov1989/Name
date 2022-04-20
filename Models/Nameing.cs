@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Name.Models
 {
-    class Nameing
+    class Person//Класс для получения и хранения даных
     {
         private string _lastname;
        
